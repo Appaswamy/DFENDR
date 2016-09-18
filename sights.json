@@ -1,0 +1,89 @@
+{
+	"Name": "Birla Mandir",
+	
+	"Type": "Religious",
+	"Address": "Birla Mandir Hill Fort Rd, Hyderabad, Telangana 500004, India",
+	"Phone": "040-2345-0165",
+	"Timings": "Sun-Sat: 07:00-12:00 15:00-21:00",
+	"Fee":[
+		{
+			"Adult": 0
+		},
+		{
+			"Child": 0
+		}
+	],
+	
+	"deadline": "21:00",
+	"avg_time": "02:00"
+}
+{
+	"Name": "Ramoji Film City",
+	
+	"Type": "Fun, Activity",
+	"Address": "Anaspur Village, Hayathnagar Mandal, Hyderabad, Telangana 501512",
+	"Phone": "1800-4250-9999",
+	"Timings": "Sun-Sat: 09:00-17:30",
+	"Fee":[
+		{
+			"Adult": 1000
+		},
+		{
+			"Child": 900
+		}
+	],
+		
+	
+	"deadline": "14:00",
+	"avg_time": ""
+}
+{
+	"Name": "Salar Jung Museum",
+	
+	"Type": "Historic, Museum",
+	"Address": "Salar Jung Museum, Salar Jung Road, Darulshifa, Hyderabad, Telangana 500002",
+	"Phone": "040-2457-6443",
+	"Timings": "Sat-Thu: 10:00-17:00",
+	"Fee":[
+		{
+			"General Public": 20
+		},
+		{
+			"Foreign visitors": 500
+		}
+	],
+	
+	"deadline": "15:00",
+	"avg_time": "02:00"
+}
+{
+	"Name": "Golconda Fort",
+	
+	"Type": "Historic, Monument",
+	"Address": "Golconda Fort, Ibrahim Bagh, Hyderabad, Telangana 500008",
+	"Phone": "040-2351-2401",
+	"Timings": "Sun-Sat: 09:00-17:30",
+	"Fee":[
+		{
+			"General Public": 5
+		},
+		{
+			"Foreign visitors": 100
+		}
+	],
+	
+	"deadline": "14:00",
+	"avg_time": "03:00"
+}
+{
+	"Name": "Charminar",
+	
+	"Type": "Historic, Monument",
+	"Address": "Charminar, Hyderabad, Telangana, 500002",
+	"Phone": "040-6674-5986",
+	"Timings": "Sun-Sat: 09:00-17:30",
+	"Fee": 0,
+	
+	"deadline": "16:00",
+	"avg_time": "01:30"
+}
