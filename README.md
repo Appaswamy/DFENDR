@@ -1,2 +1,2 @@
 # DFENDR
-location based personal assistance
+Trimato : location based personal assistance
