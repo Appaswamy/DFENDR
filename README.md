@@ -1,2 +1,2 @@
 # DFENDR
-Swoosh : location based personal assistance
+location based personal assistance
