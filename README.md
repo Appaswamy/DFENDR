@@ -1,2 +1,2 @@
 # DFENDR
-Swoosh : location based personal assistance
+Trimato : location based personal assistance
